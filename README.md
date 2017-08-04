@@ -2,6 +2,7 @@
 
 A PHP class that makes working with images as simple as possible.
 
+Copy made to make a small change to make the generate function consistent.
 Developed and maintained by [Cory LaViska](https://github.com/claviska).
 
 _If this project has you loving PHP image manipulation again, please consider making [a small donation](https://paypal.me/claviska) to support its development._
