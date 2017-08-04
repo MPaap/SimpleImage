@@ -1,5 +1,5 @@
 {
-  "name": "claviska/simpleimage",
+  "name": "m-paap/simpleimage",
   "description": "A PHP class that makes working with images as simple as possible.",
   "license": "MIT",
   "require": {
