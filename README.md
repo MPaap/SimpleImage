@@ -61,7 +61,7 @@ try {
 Install with Composer:
 
 ```
-composer require claviska/simpleimage
+composer require m-paap/simpleimage
 ```
 
 Or include the library manually:
